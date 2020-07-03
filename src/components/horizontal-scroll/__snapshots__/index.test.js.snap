@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HorizontalScroll Component renders correct and create snapshot <HorizontalScroll/> 1`] = `
+<styled.div
+  noPaddingTop={false}
+  style={
+    Object {
+      "style": Object {},
+    }
+  }
+>
+  <div
+    className="horizontal-scroll"
+  >
+    <div
+      className="horizontal-scroll--list"
+    >
+      <div
+        test-id="data-one"
+      >
+        data
+      </div>
+    </div>
+  </div>
+</styled.div>
+`;

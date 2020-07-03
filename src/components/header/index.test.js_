@@ -1,0 +1,28 @@
+import React from "react";
+import Header from "./index";
+
+let wrapper;
+let wrap;
+
+// beforeEach(() => {
+//     wrapper = shallow(
+//         <MemoryRouter>
+//             <Header data-test="header-test-wrapper" />
+//         </MemoryRouter>,
+//     );
+//     wrap = mount(
+//         <MemoryRouter>
+//             <Header data-test="header-test-wrapper" />
+//         </MemoryRouter>,
+//     );
+// });
+
+// describe("Header Component", () => {
+//     it("renders and create snapshot <Header />", () => {
+//         expect(wrap).toMatchSnapshot();
+//     });
+
+//     it("renders header success", () => {
+//         expect(wrapper.exists()).toBe(true);
+//     });
+// });

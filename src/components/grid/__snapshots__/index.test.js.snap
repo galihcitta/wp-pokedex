@@ -1,0 +1,828 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid Component renders and create snapshot <Grid /> 1`] = `undefined`;
+
+exports[`Grid Component renders and create snapshot only col grid <GridCol /> 1`] = `
+<RowCol
+  className=""
+  lg={12}
+  md={12}
+  sm={12}
+  style={Object {}}
+  xs={12}
+>
+  <div
+    className=" 
+                col-md-12 
+                col-sm-12 
+                col-lg-12
+                col-xs-12"
+    style={Object {}}
+  />
+</RowCol>
+`;
+
+exports[`Grid Component renders and create snapshot only col grid <GridCol /> 2`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: undefined;
+  -webkit-justify-content: undefined;
+  -ms-flex-pack: undefined;
+  justify-content: undefined;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.c0 .col-lg-1 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 8.333333333333334%;
+  -ms-flex: 0 0 8.333333333333334%;
+  flex: 0 0 8.333333333333334%;
+  max-width: 8.333333333333334%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-2 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 16.666666666666668%;
+  -ms-flex: 0 0 16.666666666666668%;
+  flex: 0 0 16.666666666666668%;
+  max-width: 16.666666666666668%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-3 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 25%;
+  -ms-flex: 0 0 25%;
+  flex: 0 0 25%;
+  max-width: 25%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-4 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 33.333333333333336%;
+  -ms-flex: 0 0 33.333333333333336%;
+  flex: 0 0 33.333333333333336%;
+  max-width: 33.333333333333336%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-5 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 41.66666666666667%;
+  -ms-flex: 0 0 41.66666666666667%;
+  flex: 0 0 41.66666666666667%;
+  max-width: 41.66666666666667%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-6 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 50%;
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-7 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 58.333333333333336%;
+  -ms-flex: 0 0 58.333333333333336%;
+  flex: 0 0 58.333333333333336%;
+  max-width: 58.333333333333336%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-8 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 66.66666666666667%;
+  -ms-flex: 0 0 66.66666666666667%;
+  flex: 0 0 66.66666666666667%;
+  max-width: 66.66666666666667%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-9 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 75%;
+  -ms-flex: 0 0 75%;
+  flex: 0 0 75%;
+  max-width: 75%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-10 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 83.33333333333334%;
+  -ms-flex: 0 0 83.33333333333334%;
+  flex: 0 0 83.33333333333334%;
+  max-width: 83.33333333333334%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-11 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 91.66666666666667%;
+  -ms-flex: 0 0 91.66666666666667%;
+  flex: 0 0 91.66666666666667%;
+  max-width: 91.66666666666667%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+.c0 .col-lg-12 {
+  box-sizing: border-box;
+  min-height: 1px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-flex: 0 0 100%;
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin-left: 0%;
+  margin-bottom: 12px;
+  right: auto;
+  left: auto;
+}
+
+@media (max-width:1024px) {
+  .c0 .col-md-1 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 8.333333333333334%;
+    -ms-flex: 0 0 8.333333333333334%;
+    flex: 0 0 8.333333333333334%;
+    max-width: 8.333333333333334%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-2 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 16.666666666666668%;
+    -ms-flex: 0 0 16.666666666666668%;
+    flex: 0 0 16.666666666666668%;
+    max-width: 16.666666666666668%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-3 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 25%;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-4 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 33.333333333333336%;
+    -ms-flex: 0 0 33.333333333333336%;
+    flex: 0 0 33.333333333333336%;
+    max-width: 33.333333333333336%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-5 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 41.66666666666667%;
+    -ms-flex: 0 0 41.66666666666667%;
+    flex: 0 0 41.66666666666667%;
+    max-width: 41.66666666666667%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-6 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 50%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-7 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 58.333333333333336%;
+    -ms-flex: 0 0 58.333333333333336%;
+    flex: 0 0 58.333333333333336%;
+    max-width: 58.333333333333336%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-8 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 66.66666666666667%;
+    -ms-flex: 0 0 66.66666666666667%;
+    flex: 0 0 66.66666666666667%;
+    max-width: 66.66666666666667%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-9 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 75%;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-10 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 83.33333333333334%;
+    -ms-flex: 0 0 83.33333333333334%;
+    flex: 0 0 83.33333333333334%;
+    max-width: 83.33333333333334%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-11 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 91.66666666666667%;
+    -ms-flex: 0 0 91.66666666666667%;
+    flex: 0 0 91.66666666666667%;
+    max-width: 91.66666666666667%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-md-12 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+}
+
+@media (max-width:760px) {
+  .c0 .col-sm-1 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 8.333333333333334%;
+    -ms-flex: 0 0 8.333333333333334%;
+    flex: 0 0 8.333333333333334%;
+    max-width: 8.333333333333334%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-2 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 16.666666666666668%;
+    -ms-flex: 0 0 16.666666666666668%;
+    flex: 0 0 16.666666666666668%;
+    max-width: 16.666666666666668%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-3 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 25%;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-4 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 33.333333333333336%;
+    -ms-flex: 0 0 33.333333333333336%;
+    flex: 0 0 33.333333333333336%;
+    max-width: 33.333333333333336%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-5 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 41.66666666666667%;
+    -ms-flex: 0 0 41.66666666666667%;
+    flex: 0 0 41.66666666666667%;
+    max-width: 41.66666666666667%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-6 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 50%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-7 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 58.333333333333336%;
+    -ms-flex: 0 0 58.333333333333336%;
+    flex: 0 0 58.333333333333336%;
+    max-width: 58.333333333333336%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-8 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 66.66666666666667%;
+    -ms-flex: 0 0 66.66666666666667%;
+    flex: 0 0 66.66666666666667%;
+    max-width: 66.66666666666667%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-9 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 75%;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-10 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 83.33333333333334%;
+    -ms-flex: 0 0 83.33333333333334%;
+    flex: 0 0 83.33333333333334%;
+    max-width: 83.33333333333334%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-11 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 91.66666666666667%;
+    -ms-flex: 0 0 91.66666666666667%;
+    flex: 0 0 91.66666666666667%;
+    max-width: 91.66666666666667%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-sm-12 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+}
+
+@media (max-width:550px) {
+  .c0 .col-xs-1 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 8.333333333333334%;
+    -ms-flex: 0 0 8.333333333333334%;
+    flex: 0 0 8.333333333333334%;
+    max-width: 8.333333333333334%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-2 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 16.666666666666668%;
+    -ms-flex: 0 0 16.666666666666668%;
+    flex: 0 0 16.666666666666668%;
+    max-width: 16.666666666666668%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-3 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 25%;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-4 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 33.333333333333336%;
+    -ms-flex: 0 0 33.333333333333336%;
+    flex: 0 0 33.333333333333336%;
+    max-width: 33.333333333333336%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-5 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 41.66666666666667%;
+    -ms-flex: 0 0 41.66666666666667%;
+    flex: 0 0 41.66666666666667%;
+    max-width: 41.66666666666667%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-6 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 50%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-7 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 58.333333333333336%;
+    -ms-flex: 0 0 58.333333333333336%;
+    flex: 0 0 58.333333333333336%;
+    max-width: 58.333333333333336%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-8 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 66.66666666666667%;
+    -ms-flex: 0 0 66.66666666666667%;
+    flex: 0 0 66.66666666666667%;
+    max-width: 66.66666666666667%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-9 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 75%;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-10 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 83.33333333333334%;
+    -ms-flex: 0 0 83.33333333333334%;
+    flex: 0 0 83.33333333333334%;
+    max-width: 83.33333333333334%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-11 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 91.66666666666667%;
+    -ms-flex: 0 0 91.66666666666667%;
+    flex: 0 0 91.66666666666667%;
+    max-width: 91.66666666666667%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+
+  .c0 .col-xs-12 {
+    box-sizing: border-box;
+    min-height: 1px;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    right: auto;
+    left: auto;
+  }
+}
+
+<styled.div>
+  <div
+    className="c0"
+  />
+</styled.div>
+`;

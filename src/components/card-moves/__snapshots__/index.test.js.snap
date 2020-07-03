@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Moves Component renders correct card move and snapshot element two <CardMoves/> 1`] = `
+<styled.div
+  randomBackground={false}
+  style={
+    Object {
+      "background": "#fff",
+    }
+  }
+  width={75}
+>
+  <span
+    className="moves__level"
+  >
+    LVL 
+    11
+  </span>
+  <div
+    className="moves__content"
+  >
+    <div
+      className="moves__label"
+    >
+      MOVES NAME
+    </div>
+    <div
+      className="moves__name"
+    >
+      <span>
+        element-two
+      </span>
+    </div>
+  </div>
+</styled.div>
+`;
+
+exports[`Card Moves Component renders correct card move loading and snapshot element two <CardMoves.Loading/> 1`] = `
+<styled.div
+  randomBackground={false}
+  style={
+    Object {
+      "background": "#fff",
+    }
+  }
+  width={75}
+>
+  <div
+    className="moves__content"
+  >
+    <div
+      className="moves__label"
+    >
+      <Skeleton
+        circle={false}
+        height={10}
+        style={Object {}}
+        width="40%"
+      />
+    </div>
+    <div
+      className="moves__name"
+    >
+      <span>
+        <Skeleton
+          circle={false}
+          height={10}
+          style={Object {}}
+          width="70%"
+        />
+      </span>
+    </div>
+  </div>
+</styled.div>
+`;

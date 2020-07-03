@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Body Content Component renders and create snapshot <BodyContent /> 1`] = `
+.c0 {
+  display: block;
+  padding-top: 60px;
+  width: 100%;
+}
+
+<div
+  className="c0"
+  data-test="BodyContent-test-wrapper"
+/>
+`;

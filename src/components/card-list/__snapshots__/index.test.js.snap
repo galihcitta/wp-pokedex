@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card List Component renders and create snapshot <CardList /> 1`] = `
+<styled.div>
+  <styled.div>
+    <ThumbAvatar
+      image="dummy-square.jpg"
+      radius="circle"
+      size="lg"
+    />
+  </styled.div>
+  <styled.div>
+    <styled.p
+      style={
+        Object {
+          "textTransform": "capitalize",
+        }
+      }
+    >
+      BELARUS
+    </styled.p>
+    <IosArrowForward
+      beat={false}
+      color="#424242"
+      fontSize="24px"
+      rotate={false}
+      shake={false}
+      style={Object {}}
+    />
+  </styled.div>
+</styled.div>
+`;

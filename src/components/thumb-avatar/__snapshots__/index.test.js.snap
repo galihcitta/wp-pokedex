@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Menu Lang Component renders and create snapshot <ThumbAvatar /> 1`] = `
+<styled.div
+  data-test="thumb-avatar-test-wrapper"
+  image="dummy-square.jpg"
+  radius="circle"
+  size="lg"
+  type="circle"
+>
+  <img
+    alt=""
+    className="image__pokemon"
+    src="dummy-square.jpg"
+  />
+</styled.div>
+`;

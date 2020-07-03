@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icons Component check width in style components <Filter /> 1`] = `
+.c0 {
+  background-color: transparent;
+  background-image: url(ic-logo.svg);
+  background-position: center center;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: 18px 16px;
+  background-size: 30px 30px;
+  display: block;
+  font-size: 0;
+  height: 30px;
+  margin: auto;
+  text-indent: -99999px;
+  width: 30px;
+}
+
+<i
+  className="c0"
+  name="logo"
+/>
+`;
+
+exports[`Icons Component renders and create snapshot <Icons /> 1`] = `undefined`;

@@ -1,0 +1,354 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Menu Lang Component renders and create snapshot <HeadingText.Five /> 1`] = `
+.c0 {
+  font-family: "Muli",sans-serif;
+  font-size: 24.4px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+}
+
+<styled.h5
+  fontWeight="bold"
+>
+  <h5
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.h5>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <HeadingText.Four /> 1`] = `
+.c0 {
+  font-family: "Rubik",sans-serif;
+  font-size: 34.5px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 0.25px;
+  -moz-letter-spacing: 0.25px;
+  -ms-letter-spacing: 0.25px;
+  letter-spacing: 0.25px;
+  line-height: normal;
+  text-align: left;
+}
+
+<styled.h4
+  fontWeight="bold"
+>
+  <h4
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.h4>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <HeadingText.One /> 1`] = `
+.c0 {
+  font-family: "Rubik",sans-serif;
+  font-size: 60px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+<styled.h1
+  fontWeight="bold"
+>
+  <h1
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.h1>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <HeadingText.Six /> 1`] = `
+.c0 {
+  font-family: "Muli",sans-serif;
+  font-size: 20.3px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 0.25px;
+  -moz-letter-spacing: 0.25px;
+  -ms-letter-spacing: 0.25px;
+  letter-spacing: 0.25px;
+  line-height: normal;
+  text-align: left;
+}
+
+<styled.h6
+  fontWeight="bold"
+>
+  <h6
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.h6>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <HeadingText.Three /> 1`] = `
+.c0 {
+  font-family: "Rubik",sans-serif;
+  font-size: 48.8px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+}
+
+<styled.h3
+  fontWeight="bold"
+>
+  <h3
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.h3>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <HeadingText.Two /> 1`] = `
+.c0 {
+  font-family: "Rubik",sans-serif;
+  font-size: 45px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+}
+
+<styled.h2
+  fontWeight="bold"
+>
+  <h2
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.h2>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <Text.BodyOne /> 1`] = `
+.c0 {
+  font-family: "Muli",sans-serif;
+  font-size: 16.3px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 0.5px;
+  -moz-letter-spacing: 0.5px;
+  -ms-letter-spacing: 0.5px;
+  letter-spacing: 0.5px;
+  line-height: 1.72;
+  text-align: left;
+}
+
+<styled.p
+  fontWeight="bold"
+>
+  <p
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.p>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <Text.BodyTwo /> 1`] = `
+.c0 {
+  display: inline-block;
+  font-family: "Muli",sans-serif;
+  font-size: 12.2px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 0.4px;
+  -moz-letter-spacing: 0.4px;
+  -ms-letter-spacing: 0.4px;
+  letter-spacing: 0.4px;
+  line-height: 1.31;
+  text-align: left;
+}
+
+<styled.span
+  fontWeight="bold"
+>
+  <span
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.span>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <Text.BodyTwo /> 2`] = `
+.c0 {
+  font-family: "Muli",sans-serif;
+  font-size: 16.3px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 0.5px;
+  -moz-letter-spacing: 0.5px;
+  -ms-letter-spacing: 0.5px;
+  letter-spacing: 0.5px;
+  line-height: 1.72;
+  text-align: left;
+}
+
+<styled.p
+  fontWeight="bold"
+>
+  <p
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.p>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <Text.BodyTwo /> 3`] = `
+.c0 {
+  font-family: "Muli",sans-serif;
+  font-size: 14.2px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 0.25px;
+  -moz-letter-spacing: 0.25px;
+  -ms-letter-spacing: 0.25px;
+  letter-spacing: 0.25px;
+  line-height: 1.41;
+  text-align: left;
+}
+
+<styled.p
+  fontWeight="bold"
+>
+  <p
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.p>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <Text.Caption /> 1`] = `
+.c0 {
+  display: inline-block;
+  font-family: "Muli",sans-serif;
+  font-size: 12.2px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 0.4px;
+  -moz-letter-spacing: 0.4px;
+  -ms-letter-spacing: 0.4px;
+  letter-spacing: 0.4px;
+  line-height: 1.31;
+  text-align: left;
+}
+
+<styled.span
+  fontWeight="bold"
+>
+  <span
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.span>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <Text.Overline /> 1`] = `
+.c0 {
+  font-family: "Muli",sans-serif;
+  font-size: 12.2px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 2px;
+  -moz-letter-spacing: 2px;
+  -ms-letter-spacing: 2px;
+  letter-spacing: 2px;
+  line-height: 1.31;
+  text-align: left;
+}
+
+<styled.h5
+  fontWeight="bold"
+>
+  <h5
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.h5>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <Text.SubtitleOne /> 1`] = `
+.c0 {
+  display: inline-block;
+  font-family: "Muli",sans-serif;
+  font-size: 16.3px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 0.15px;
+  -moz-letter-spacing: 0.15px;
+  -ms-letter-spacing: 0.15px;
+  letter-spacing: 0.15px;
+  line-height: 1.48;
+  text-align: left;
+}
+
+<styled.span
+  fontWeight="bold"
+>
+  <span
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.span>
+`;
+
+exports[`Header Menu Lang Component renders and create snapshot <Text.SubtitleTwo /> 1`] = `
+.c0 {
+  display: inline-block;
+  font-family: "Muli",sans-serif;
+  font-size: 14.2px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-letter-spacing: 0.2px;
+  -moz-letter-spacing: 0.2px;
+  -ms-letter-spacing: 0.2px;
+  letter-spacing: 0.2px;
+  line-height: 1.69;
+  text-align: left;
+}
+
+<styled.span
+  fontWeight="bold"
+>
+  <span
+    className="c0"
+    fontWeight="bold"
+  />
+</styled.span>
+`;

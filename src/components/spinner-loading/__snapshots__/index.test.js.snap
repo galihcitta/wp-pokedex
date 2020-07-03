@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading and spinner Component renders spinner loading and snapshot element <Loading/> 1`] = `
+<styled.div>
+  <div
+    className="loading-background"
+  >
+    <div
+      className="loading-background-box"
+    >
+      <Spinner
+        color="aquamarine"
+      />
+    </div>
+  </div>
+</styled.div>
+`;

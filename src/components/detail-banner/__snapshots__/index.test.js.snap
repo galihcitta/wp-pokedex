@@ -1,0 +1,465 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detail Banner Component renders correct detail banner and snapshot element two <DetailBanner/> 1`] = `
+.c0 {
+  background: linear-gradient(135deg,#50a1d8 0,#297eb9 100%);
+  border-radius: 10px;
+  box-shadow: 2px 8px 26px 0 #c2dbed;
+  height: 100px;
+  height: 120px;
+  margin-bottom: 30px;
+  position: relative;
+  position: relative;
+  width: 100%;
+  width: 100%;
+}
+
+.c0 .pokemon-size {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  height: 100%;
+  width: 100%;
+}
+
+.c0 .pokemon-size--content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  height: 100%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+  position: relative;
+  width: 100%;
+}
+
+.c0 .pokemon-size--content:before {
+  background: white;
+  bottom: 0;
+  content: "";
+  height: 70px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 1px;
+}
+
+.c0 .pokemon-size--content-box {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.c0 .pokemon-size--content-box .title {
+  color: #fff;
+  font-size: 35px;
+  font-weight: 300;
+}
+
+.c0 .pokemon-size--content-box .title > span {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.c0 .pokemon-size--content-box .icon {
+  margin-right: 10px;
+  width: 30px;
+}
+
+<DetailBanner
+  height={7}
+  weight={69}
+>
+  <styled.div>
+    <div
+      className="c0"
+    >
+      <div
+        className="pokemon-size"
+      >
+        <div
+          className="pokemon-size--content"
+        >
+          <div
+            className="pokemon-size--content-box"
+          >
+            <div
+              className="icon"
+            >
+              <img
+                alt=""
+                src="ic-weight-white.png"
+              />
+            </div>
+            <div
+              className="title"
+              test-id="weight"
+            >
+              6.9
+               
+              <span>
+                Kg
+              </span>
+            </div>
+          </div>
+          <div
+            className="pokemon-size--content-box"
+          >
+            <div
+              className="icon"
+            >
+              <img
+                alt=""
+                src="ic-height-white.png"
+              />
+            </div>
+            <div
+              className="title"
+              test-id="height"
+            >
+              0.7
+               
+              <span>
+                m
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </styled.div>
+</DetailBanner>
+`;
+
+exports[`Detail Banner Component renders correct detail banner loading <DetailBanner.Loading/> 1`] = `
+.c0 {
+  background: linear-gradient(135deg,#50a1d8 0,#297eb9 100%);
+  border-radius: 10px;
+  box-shadow: 2px 8px 26px 0 #c2dbed;
+  height: 100px;
+  height: 120px;
+  margin-bottom: 30px;
+  position: relative;
+  position: relative;
+  width: 100%;
+  width: 100%;
+}
+
+.c0 .pokemon-size {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  height: 100%;
+  width: 100%;
+}
+
+.c0 .pokemon-size--content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  height: 100%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+  position: relative;
+  width: 100%;
+}
+
+.c0 .pokemon-size--content:before {
+  background: white;
+  bottom: 0;
+  content: "";
+  height: 70px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 1px;
+}
+
+.c0 .pokemon-size--content-box {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  height: 100%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.c0 .pokemon-size--content-box .title {
+  color: #fff;
+  font-size: 35px;
+  font-weight: 300;
+}
+
+.c0 .pokemon-size--content-box .title > span {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.c0 .pokemon-size--content-box .icon {
+  margin-right: 10px;
+  width: 30px;
+}
+
+.c1 {
+  -webkit-animation: hnMiWC 1s infinite ease-in-out;
+  animation: hnMiWC 1s infinite ease-in-out;
+  border-radius: 0;
+  height: 30px;
+  margin: 10px 0;
+  width: 30px;
+}
+
+.c2 {
+  -webkit-animation: hnMiWC 1s infinite ease-in-out;
+  animation: hnMiWC 1s infinite ease-in-out;
+  border-radius: 0;
+  height: 10px;
+  margin: 10px 0;
+  width: 30px;
+}
+
+.c3 {
+  -webkit-animation: hnMiWC 1s infinite ease-in-out;
+  animation: hnMiWC 1s infinite ease-in-out;
+  border-radius: 0;
+  height: 10px;
+  margin: 10px 0;
+  width: 20px;
+}
+
+<DetailBannerLoading>
+  <styled.div>
+    <div
+      className="c0"
+    >
+      <div
+        className="pokemon-size"
+      >
+        <div
+          className="pokemon-size--content"
+        >
+          <div
+            className="pokemon-size--content-box"
+          >
+            <div
+              className="icon"
+            >
+              <Skeleton
+                circle={false}
+                height={30}
+                style={Object {}}
+                width="30px"
+              >
+                <styled.div
+                  circle={false}
+                  height={30}
+                  style={Object {}}
+                  width="30px"
+                >
+                  <div
+                    className="c1"
+                    height={30}
+                    style={Object {}}
+                    width="30px"
+                  />
+                </styled.div>
+              </Skeleton>
+               
+            </div>
+            <div
+              className="title"
+              test-id="weight"
+            >
+              <Skeleton
+                circle={false}
+                height={10}
+                style={Object {}}
+                width="30px"
+              >
+                <styled.div
+                  circle={false}
+                  height={10}
+                  style={Object {}}
+                  width="30px"
+                >
+                  <div
+                    className="c2"
+                    height={10}
+                    style={Object {}}
+                    width="30px"
+                  />
+                </styled.div>
+              </Skeleton>
+               
+              <span>
+                <Skeleton
+                  circle={false}
+                  height={10}
+                  style={Object {}}
+                  width="20px"
+                >
+                  <styled.div
+                    circle={false}
+                    height={10}
+                    style={Object {}}
+                    width="20px"
+                  >
+                    <div
+                      className="c3"
+                      height={10}
+                      style={Object {}}
+                      width="20px"
+                    />
+                  </styled.div>
+                </Skeleton>
+              </span>
+            </div>
+          </div>
+          <div
+            className="pokemon-size--content-box"
+          >
+            <div
+              className="icon"
+            >
+              <Skeleton
+                circle={false}
+                height={30}
+                style={Object {}}
+                width="30px"
+              >
+                <styled.div
+                  circle={false}
+                  height={30}
+                  style={Object {}}
+                  width="30px"
+                >
+                  <div
+                    className="c1"
+                    height={30}
+                    style={Object {}}
+                    width="30px"
+                  />
+                </styled.div>
+              </Skeleton>
+               
+            </div>
+            <div
+              className="title"
+              test-id="height"
+            >
+              <Skeleton
+                circle={false}
+                height={10}
+                style={Object {}}
+                width="30px"
+              >
+                <styled.div
+                  circle={false}
+                  height={10}
+                  style={Object {}}
+                  width="30px"
+                >
+                  <div
+                    className="c2"
+                    height={10}
+                    style={Object {}}
+                    width="30px"
+                  />
+                </styled.div>
+              </Skeleton>
+               
+              <span>
+                <Skeleton
+                  circle={false}
+                  height={10}
+                  style={Object {}}
+                  width="20px"
+                >
+                  <styled.div
+                    circle={false}
+                    height={10}
+                    style={Object {}}
+                    width="20px"
+                  >
+                    <div
+                      className="c3"
+                      height={10}
+                      style={Object {}}
+                      width="20px"
+                    />
+                  </styled.div>
+                </Skeleton>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </styled.div>
+</DetailBannerLoading>
+`;

@@ -1,0 +1,201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filterr Component check width in style components <Filter /> 1`] = `
+.c0 {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  outline: none;
+  padding: 7px;
+  position: relative;
+  width: 50%;
+}
+
+.c0 .filter__content {
+  display: block;
+  width: 100%;
+}
+
+.c0 .filter__title {
+  display: block;
+  font-size: 12px;
+  font-weight: 300;
+  width: 100%;
+}
+
+.c0 .filter__title > span {
+  color: #4a4a4a;
+  display: block;
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  text-transform: capitalize;
+  white-space: nowrap;
+  width: 100%;
+}
+
+<button
+  className="c0"
+  onClick={[Function]}
+  width={50}
+>
+  <div
+    className="filter__content"
+  >
+    <div
+      className="filter__title"
+    >
+      <span>
+        Normal
+      </span>
+    </div>
+  </div>
+</button>
+`;
+
+exports[`Filterr Component check width in style components <Filter /> 2`] = `
+.c0 {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  outline: none;
+  padding: 7px;
+  position: relative;
+  width: 50%;
+  background: #f7f7f7;
+  border: 1px solid #5295c7;
+}
+
+.c0 .filter__content {
+  display: block;
+  width: 100%;
+}
+
+.c0 .filter__title {
+  display: block;
+  font-size: 12px;
+  font-weight: 300;
+  width: 100%;
+}
+
+.c0 .filter__title > span {
+  color: #4a4a4a;
+  display: block;
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  text-transform: capitalize;
+  white-space: nowrap;
+  width: 100%;
+  color: #5295c7;
+}
+
+<button
+  className="c0"
+  onClick={[Function]}
+  width={50}
+>
+  <div
+    className="filter__content"
+  >
+    <div
+      className="filter__title"
+    >
+      <span>
+        Normal
+      </span>
+    </div>
+  </div>
+</button>
+`;
+
+exports[`Filterr Component check width in style components <Filter.Loading /> 1`] = `
+.c0 {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  outline: none;
+  padding: 7px;
+  position: relative;
+  width: 50%;
+}
+
+.c0 .filter__content {
+  display: block;
+  width: 100%;
+}
+
+.c0 .filter__title {
+  display: block;
+  font-size: 12px;
+  font-weight: 300;
+  width: 100%;
+}
+
+.c0 .filter__title > span {
+  color: #4a4a4a;
+  display: block;
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  text-transform: capitalize;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.c1 {
+  -webkit-animation: hnMiWC 1s infinite ease-in-out;
+  animation: hnMiWC 1s infinite ease-in-out;
+  border-radius: 0;
+  height: 10px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+<button
+  className="c0"
+  width={50}
+>
+  <div
+    className="filter__content"
+  >
+    <div
+      className="filter__title"
+    >
+      <span>
+        <div
+          className="c1"
+          height={10}
+          style={Object {}}
+          width="100%"
+        />
+      </span>
+    </div>
+  </div>
+</button>
+`;
+
+exports[`Filterr Component renders and create snapshot <Filter /> 1`] = `undefined`;
+
+exports[`Filterr Component renders and create snapshot <Filter /> 2`] = `undefined`;

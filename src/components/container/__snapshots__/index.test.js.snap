@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container Component renders and create snapshot <Content /> 1`] = `
+.c0 {
+  background-color: #f7f7f7;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 20px 15px 10px 15px;
+  padding-bottom: 110px;
+  width: 450px;
+}
+
+@media (max-width:450px) {
+  .c0 {
+    width: 100%;
+  }
+}
+
+<div
+  className="c0"
+  data-test="container-test-mount"
+/>
+`;
