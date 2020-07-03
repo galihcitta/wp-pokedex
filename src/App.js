@@ -1,25 +1,60 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useEffect, useState } from "react";
+import { BrowserRouter as Router, Switch, Redirect } from "react-router-dom";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import { RouteConfiguration, routesList } from "./routes";
+import { useStore, servicesAction } from "./reducer";
+import localStorage from "./utils/local-storage";
+
+const App = props => {
+    const [isDone, setDone] = useState(false);
+    const { dispatch, state } = useStore();
+    const { user } = state;
+
+    // check have user or not
+    useEffect(() => {
+        // check have user in reducers
+        if (!user?.auth?.data) {
+            const localStorageData = localStorage().get("auth");
+            // check have user in local storage
+            if (localStorageData) {
+                servicesAction(dispatch).reduxLogin({
+                    reducer: "service",
+                    group: "user",
+                    key: "auth",
+                    data: localStorageData,
+                    type: 200,
+                    isError: false,
+                    isSuccess: true,
+                });
+            }
+            setDone(true);
+        } else {
+            setDone(true);
+        }
+    }, [user, dispatch]);
+    if (!isDone) {
+        return false;
+    }
+    return (
+        <Router>
+            <Switch>
+                {routesList.map(item => {
+                    return (
+                        <RouteConfiguration
+                            key={item.path}
+                            {...props}
+                            exact
+                            authUser={user?.auth?.data}
+                            item={item}
+                            path={item.path}
+                            component={item.component}
+                        />
+                    );
+                })}
+                <Redirect to="/404" />
+            </Switch>
+        </Router>
+    );
+};
 
 export default App;

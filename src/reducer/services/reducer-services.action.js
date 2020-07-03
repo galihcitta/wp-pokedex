@@ -1,4 +1,4 @@
-import service from "../../services";
+import service from "../../api";
 import localStorage from "../../utils/local-storage";
 
 const testing = (dispatch, value) => {
