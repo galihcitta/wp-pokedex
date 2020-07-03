@@ -37,3 +37,14 @@ The default url is: http://localhost:3000
 
 * Add Search function
 * Deploy the app to the cloud
+
+## Application Screenshot
+
+![app1](https://i.ibb.co/rw6FNCf/Screen-Shot-2020-07-04-at-05-48-37.png)
+
+![app2](https://i.ibb.co/h2SGK9Y/Screen-Shot-2020-07-04-at-05-48-45.png)
+
+![app3](https://i.ibb.co/H43pvw4/Screen-Shot-2020-07-04-at-05-48-58.png)
+
+![app4](https://i.ibb.co/1Xb9JNd/Screen-Shot-2020-07-04-at-05-49-06.png)
+
