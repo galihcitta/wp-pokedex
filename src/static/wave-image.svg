@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="87.950447mm"
+   height="20.121021mm"
+   viewBox="0 0 87.950447 20.121021"
+   version="1.1"
+   id="svg2866"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="gradient-card.svg">
+  <defs
+     id="defs2860">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12683">
+      <rect
+         rx="0"
+         ry="2.2438695"
+         style="opacity:1;fill:url(#linearGradient12687);fill-opacity:1;stroke:none;stroke-width:0.14728804;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect12685"
+         width="105.48441"
+         height="71.195335"
+         x="-578.26862"
+         y="97.144203" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-780.9373"
+     inkscape:cy="-36.261738"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2863">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-99.655732,-119.11806)">
+    <g
+       clip-path="url(#clipPath12683)"
+       style="opacity:0.7;stroke-width:1.1993618"
+       transform="matrix(0.8337767,0,0,0.8337767,581.80263,-1.1185032)"
+       id="g12693">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12689"
+         d="m -586.1332,158.23719 c 0,0 20.93446,-27.09078 36.96561,-5.98311 16.03113,21.10768 26.5601,-13.7002 40.45376,5.27 13.89366,18.97019 26.84204,-10.34101 38.59822,2.75109 l -0.78683,17.70246 c 0,0 -15.22958,5.34371 -40.07786,-5.07653 -24.84827,-10.42025 -42.60782,6.18027 -66.12017,-2.36967 -23.51235,-8.54995 -27.46853,-18.97389 -27.46853,-18.97389 l 17.09987,6.41246 z"
+         style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31733117px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cssccssccc" />
+      <path
+         sodipodi:nodetypes="csssccc"
+         inkscape:connector-curvature="0"
+         id="path12691"
+         d="m -595.29246,167.15597 c 4.54215,11.48898 25.6093,-13.433 44.84668,-7.8221 19.23737,5.61091 36.91216,18.77672 48.13396,8.08929 11.2218,-10.68744 14.91818,-27.35615 27.20873,-10.52345 12.29054,16.8327 10.46446,38.84514 10.46446,38.84514 l -125.84449,0.53437 z"
+         style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.31733117px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -5,7 +5,6 @@ import {
     HeaderBadge,
     HeaderLogo,
 } from "./index.style";
-import Button from "../button";
 import Icons from "../icons";
 
 const Header = ({ withBackButton = false }) => {
@@ -17,10 +16,6 @@ const Header = ({ withBackButton = false }) => {
                     <Icons name="logo"></Icons>
                     POKEMON
                 </HeaderLogo>
-                <Button type="button">
-                    <HeaderBadge>3</HeaderBadge>
-                    <Icons name="pokeBall"></Icons>
-                </Button>
             </HeaderContainer>
         </HeaderStyle>
     );

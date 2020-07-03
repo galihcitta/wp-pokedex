@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layouts Component renders and create snapshot <Layouts /> 1`] = `
+<styled.div>
+  <styled.div
+    noPadding={false}
+  >
+    <Header
+      withBackButton={true}
+    />
+  </styled.div>
+</styled.div>
+`;

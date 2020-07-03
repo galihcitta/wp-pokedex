@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="289" height="17" viewBox="0 0 289 17">
+    <defs>
+        <linearGradient id="a" x1="-38.528%" x2="89.428%" y1="45.168%" y2="52.145%">
+            <stop offset="0%" stop-color="#FFC400"/>
+            <stop offset="59.471%" stop-color="#FFC70D"/>
+            <stop offset="100%" stop-color="#FFFAE6"/>
+        </linearGradient>
+        <linearGradient id="b" x1="-43.401%" x2="55.847%" y1="42.521%" y2="51.156%">
+            <stop offset="0%" stop-color="#EB9510"/>
+            <stop offset="21.705%" stop-color="#FCE1B7"/>
+            <stop offset="100%" stop-color="#FFF0B3"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#a)" d="M0 31.604C32.018 11.36 63.032 2.576 93.041 5.256c45.015 4.02 35.86 15.571 76.197 7.003C209.574 3.69 232.644-4.878 264.03 3.69c20.924 5.713 39.247 13.012 54.97 21.9l-31.07 22.014L51.11 45.19 0 31.604z" opacity=".197" transform="translate(-51 .399)"/>
+        <path fill="url(#b)" d="M96 23.068c33.235-20.523 66.887-26.33 100.955-17.423 51.101 13.361 95.01 1.816 128.045 0 22.024-1.21 38.024 4.879 48 18.268l-47 29.732c-125.348 4.617-189.669 6.926-192.963 6.926-3.295 0-15.64-12.501-37.037-37.503z" opacity=".644" transform="translate(-51 .399)"/>
+    </g>
+</svg>

@@ -12,8 +12,8 @@ import HeroBanner from "../../components/hero-banner/index";
 // end global components
 
 // begin service
-import { useStore } from "../../reducers";
-import imagePath from "../../services/image-path";
+import { useStore } from "../../reducer";
+import imagePath from "../../api/image-path";
 import service from "./index.service";
 // end service
 

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageNotFound Component renders and create snapshot <PageNotFound /> 1`] = `
+<styled.div
+  noPadding={false}
+>
+  <styled.h3
+    align="center"
+    block={true}
+  >
+    404
+  </styled.h3>
+</styled.div>
+`;

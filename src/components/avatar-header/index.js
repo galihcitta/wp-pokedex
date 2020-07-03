@@ -21,6 +21,8 @@ const AvatarHeader = ({ image, name, abilities }) => {
                         </div>
                         <span className="avatar__header__title">{name}</span>
                     </div>
+                    &nbsp;
+                    <span>Abilities:</span>
                     <Abilities data={abilities}></Abilities>
                 </div>
             </div>

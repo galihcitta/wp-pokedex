@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 
 import StyleCardMoves from "./index.style";
 import CardMovesLoading from "./index.loading";
-import waveImage from "../../static/wave-image.svg";
 
 const CardMoves = props => {
     const { name, level, randomBackground, width, wave } = props;
@@ -34,7 +33,7 @@ const CardMoves = props => {
             </div>
             {wave && (
                 <div className="moves__image">
-                    <img src={waveImage} alt="" />
+                    
                 </div>
             )}
         </StyleCardMoves>

@@ -7,7 +7,7 @@ import Container from "../../components/container";
 import service from "./index.service";
 
 // //begin global import
-import CommonFetchData from "../../common/fetch-data";
+import CommonFetchData from "../../helper";
 //end global import
 
 const Style = {

@@ -43,7 +43,6 @@ const CardMovesLoading = props => {
             </div>
             {wave && (
                 <div className="moves__image">
-                    <img src={waveImage} alt="" />
                 </div>
             )}
         </StyleCardMoves>
