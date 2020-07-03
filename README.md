@@ -33,6 +33,12 @@ npm run start
 ```
 The default url is: http://localhost:3000
 
+4. If you want do the test
+
+```
+npm run test
+```
+
 ## Next Upgrade
 
 * Add Search function
