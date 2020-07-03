@@ -33,7 +33,7 @@ npm run start
 ```
 The default url is: http://localhost:3000
 
-4. If you want do the test
+5. If you want do the test
 
 ```
 npm run test
